@@ -1,0 +1,5 @@
+cardGame-java
+07 August 2012
+S. Duy
+
+First stab at java. This code implements a Card class, a Deck class, and a simple guess-the-card implementation. Uses generics, ArrayLists, string manipulation, exception handling, and file I/O.
